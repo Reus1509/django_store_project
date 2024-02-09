@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий
 ```
-
+https://github.com/Reus1509/diplom_store_project.git
 cd OnlineStore
 ```
 
